@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/arjolabrahelika/wikipedia.git/static/css/main.122787fb.chunk.css",
-    "main.js": "/arjolabrahelika/wikipedia.git/static/js/main.17ba5163.chunk.js",
-    "main.js.map": "/arjolabrahelika/wikipedia.git/static/js/main.17ba5163.chunk.js.map",
-    "runtime-main.js": "/arjolabrahelika/wikipedia.git/static/js/runtime-main.93239bbd.js",
-    "runtime-main.js.map": "/arjolabrahelika/wikipedia.git/static/js/runtime-main.93239bbd.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/arjolabrahelika/wikipedia.git/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.c03aa3b2.chunk.js": "/arjolabrahelika/wikipedia.git/static/js/2.c03aa3b2.chunk.js",
-    "static/js/2.c03aa3b2.chunk.js.map": "/arjolabrahelika/wikipedia.git/static/js/2.c03aa3b2.chunk.js.map",
-    "index.html": "/arjolabrahelika/wikipedia.git/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/arjolabrahelika/wikipedia.git/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.122787fb.chunk.css.map": "/arjolabrahelika/wikipedia.git/static/css/main.122787fb.chunk.css.map",
-    "static/js/2.c03aa3b2.chunk.js.LICENSE.txt": "/arjolabrahelika/wikipedia.git/static/js/2.c03aa3b2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/arjolabrahelika/wikipedia.git/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/wikipedia/static/css/main.48e5a055.chunk.css",
+    "main.js": "/wikipedia/static/js/main.17ba5163.chunk.js",
+    "main.js.map": "/wikipedia/static/js/main.17ba5163.chunk.js.map",
+    "runtime-main.js": "/wikipedia/static/js/runtime-main.97ae624f.js",
+    "runtime-main.js.map": "/wikipedia/static/js/runtime-main.97ae624f.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/wikipedia/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c03aa3b2.chunk.js": "/wikipedia/static/js/2.c03aa3b2.chunk.js",
+    "static/js/2.c03aa3b2.chunk.js.map": "/wikipedia/static/js/2.c03aa3b2.chunk.js.map",
+    "index.html": "/wikipedia/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/wikipedia/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.48e5a055.chunk.css.map": "/wikipedia/static/css/main.48e5a055.chunk.css.map",
+    "static/js/2.c03aa3b2.chunk.js.LICENSE.txt": "/wikipedia/static/js/2.c03aa3b2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wikipedia/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.93239bbd.js",
+    "static/js/runtime-main.97ae624f.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.c03aa3b2.chunk.js",
-    "static/css/main.122787fb.chunk.css",
+    "static/css/main.48e5a055.chunk.css",
     "static/js/main.17ba5163.chunk.js"
   ]
 }
